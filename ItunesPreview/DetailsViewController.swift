@@ -38,6 +38,7 @@ class DetailsViewController: UIViewController,UITableViewDataSource,UITableViewD
         
         if  self.album != nil
         {
+            UIApplication.sharedApplication().networkActivityIndicatorVisible = true
             dc.lookupAlbum(self.album!.collectionId)
         }
     }

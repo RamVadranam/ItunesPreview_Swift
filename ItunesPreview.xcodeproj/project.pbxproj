@@ -96,20 +96,20 @@
 		C3ECF4AD1BA9D83B00DF5F5A /* ItunesPreview */ = {
 			isa = PBXGroup;
 			children = (
-				C3ECF4AE1BA9D83B00DF5F5A /* Album.swift */,
 				C3ECF4AF1BA9D83B00DF5F5A /* AppDelegate.swift */,
+				C3ECF4BD1BA9D83B00DF5F5A /* ViewController.swift */,
+				C3ECF4B61BA9D83B00DF5F5A /* DetailsViewController.swift */,
 				C3ECF4B01BA9D83B00DF5F5A /* LaunchScreen.xib */,
 				C3ECF4B21BA9D83B00DF5F5A /* Main.storyboard */,
 				C3ECF4B41BA9D83B00DF5F5A /* Blank52.png */,
-				C3ECF4B51BA9D83B00DF5F5A /* DataController.swift */,
-				C3ECF4B61BA9D83B00DF5F5A /* DetailsViewController.swift */,
 				C3ECF4B71BA9D83B00DF5F5A /* Images.xcassets */,
 				C3ECF4B81BA9D83B00DF5F5A /* Info.plist */,
 				C3ECF4B91BA9D83B00DF5F5A /* play@2x.png */,
 				C3ECF4BA1BA9D83B00DF5F5A /* stop@2x.png */,
+				C3ECF4B51BA9D83B00DF5F5A /* DataController.swift */,
+				C3ECF4AE1BA9D83B00DF5F5A /* Album.swift */,
 				C3ECF4BB1BA9D83B00DF5F5A /* Track.swift */,
 				C3ECF4BC1BA9D83B00DF5F5A /* TrackCell.swift */,
-				C3ECF4BD1BA9D83B00DF5F5A /* ViewController.swift */,
 			);
 			path = ItunesPreview;
 			sourceTree = "<group>";
